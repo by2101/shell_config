@@ -1,7 +1,6 @@
 #!/bin/bash
 
-H=$(cd "$(dirname "$0")"; pwd)  
-
+H=$HOME/shell_config
 
 # add jumping plug z
 source $H/plugs/z/z.sh
